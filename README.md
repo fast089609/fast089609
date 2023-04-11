@@ -18,8 +18,14 @@ I have experience in developing high performance web applications, implementing 
 
 ### Project Highlights
   1. **Popsy:** A web application that contains a Landing Page in which you can place orders to customers, from the administrative part we have that they can have a control of the orders and in addition to that they can have a tracking of the couriers who carry the orders.
-  <img src="imagen_movil_popsy.PNG" width="150">
-  3. **Good Chat:** A web application built in vue js, this application works as a chat system and control of customer orders, in this case the chat can communicate directly with whatsapp and send messages to customers, receive these messages and interact with customers via whatsapp.
+  <table style="border: 0;">
+    <tr>
+      <td width="24%"><img src="imagen_movil_popsy.PNG"></td>
+      <td><img src="imagen_pc_popsy.PNG"></td>
+    </tr>
+  </table>
+  
+  2. **Good Chat:** A web application built in vue js, this application works as a chat system and control of customer orders, in this case the chat can communicate directly with whatsapp and send messages to customers, receive these messages and interact with customers via whatsapp.
   4. **Cookie Jaar:** 
   5. **Panpaya:** 
 
