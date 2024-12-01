@@ -17,7 +17,7 @@ I have experience in developing high performance web applications, implementing 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fast089609&show_icons=true&theme=midnight-purple)
 
 ### Project Highlights
-  1. **Popsy:** A web application that contains a Landing Page in which you can place orders to customers, from the administrative part we have that they can have a control of the orders and in addition to that they can have a tracking of the couriers who carry the orders.
+-  **Popsy:** A web application that contains a Landing Page in which you can place orders to customers, from the administrative part we have that they can have a control of the orders and in addition to that they can have a tracking of the couriers who carry the orders.
   <table style="border: 0;">
     <tr>
       <td width="24%"><img src="imagen_movil_popsy.PNG"></td>
@@ -25,9 +25,9 @@ I have experience in developing high performance web applications, implementing 
     </tr>
   </table>
   
-  2. **Good Chat:** A web application built in vue js, this application works as a chat system and control of customer orders, in this case the chat can communicate directly with whatsapp and send messages to customers, receive these messages and interact with customers via whatsapp.
-  4. **Cookie Jaar:** 
-  5. **Panpaya:** 
+-  **Good Chat:** A web application built in vue js, this application works as a chat system and control of customer orders, in this case the chat can communicate directly with whatsapp and send messages to customers, receive these messages and interact with customers via whatsapp.
+-  **Cookie Jaar:** 
+-  **Panpaya:** 
 
 ## Contacto
 
@@ -47,7 +47,7 @@ If you are interested in working with me on a project, feel free to contact me t
 
 [Url_Git]: https://github.com/fast089609
 [Url_Gmail]: mailto:fc089609"gmail.com
-[Url_Linkedin]: https://www.linkedin.com/in/fabi%C3%A1n-castro-lozano-500b22201/
+[Url_Linkedin]: https://www.linkedin.com/in/fabian-castro-lozano-a88a39189
 [Url_stackoverflow]: https://stackoverflow.com/users/21520604/fabian-castro-lozano
 [Url_whatsapp]: https://wa.me/573177321548
 
